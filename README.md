@@ -159,6 +159,7 @@ bash install_gfootball.sh
 ```shell
 # For SMAC
 python3 src/main.py --config=qmix --env-config=sc2 with env_args.map_name=corridor
+python3 src/main.py --config=coma --env-config=sc2 with env_args.map_name=corridor
 ```
 
 ```shell
